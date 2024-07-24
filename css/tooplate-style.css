@@ -79,9 +79,10 @@ h3,
 b, strong {
   font-weight: bold;
 }
+
 /* my css */
 .col-lg-5 {
-  top:65px;
+  top:55px;
 }
 
 .location{
